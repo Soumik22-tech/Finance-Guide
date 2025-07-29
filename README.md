@@ -1,4 +1,3 @@
-# Finance-Guide
 # 💰 Finance Guide - Smart Budget Allocator
 
 A clean, modern web app that helps users **smartly allocate their income** into essential categories like savings, rent, food, and more — all in a click. Built using **HTML, CSS, and JavaScript** with a sleek Navy & White UI.
