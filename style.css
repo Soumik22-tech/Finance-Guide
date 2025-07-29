@@ -360,3 +360,29 @@ form .form-group-inline label {
     padding: 20px;
   }
 }
+
+.social-links {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.social-links a {
+  color: #ffffff;
+  transition: color 0.3s ease;
+}
+
+.social-links a:hover {
+  color: #00b4d8;
+}
+
+.footer .credit {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #ccc;
+}
+
+
+
+
